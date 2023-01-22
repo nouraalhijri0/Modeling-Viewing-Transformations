@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/nouraalhajry/Desktop/projects/framework_cs248fall2021-main/src/main.cpp \
+  /Users/nouraalhajry/Desktop/projects/framework_cs248fall2021-main/inc/webgpu.h \
+  /Users/nouraalhajry/Desktop/projects/framework_cs248fall2021-main/lib/dawn/inc/webgpu/webgpu.h \
+  /Users/nouraalhajry/Desktop/projects/framework_cs248fall2021-main/lib/dawn/inc/dawn/webgpu.h \
+  /Users/nouraalhajry/Desktop/projects/framework_cs248fall2021-main/inc/window.h \
+  /Users/nouraalhajry/Desktop/projects/framework_cs248fall2021-main/inc/defines.h \
+  /Users/nouraalhajry/Desktop/projects/framework_cs248fall2021-main/inc/GLFW/glfw3.h \
+  /Users/nouraalhajry/Desktop/projects/framework_cs248fall2021-main/inc/ray_tracing/Vec3.h \
+  /Users/nouraalhajry/Desktop/projects/framework_cs248fall2021-main/inc/ray_tracing/Color.h \
+  /Users/nouraalhajry/Desktop/projects/framework_cs248fall2021-main/inc/ray_tracing/Matrix4.h \
+  /Users/nouraalhajry/Desktop/projects/framework_cs248fall2021-main/inc/ray_tracing/Light.h \
+  /Users/nouraalhajry/Desktop/projects/framework_cs248fall2021-main/inc/ray_tracing/Ray.h \
+  /Users/nouraalhajry/Desktop/projects/framework_cs248fall2021-main/inc/ray_tracing/OrthographicCamera.h \
+  /Users/nouraalhajry/Desktop/projects/framework_cs248fall2021-main/inc/ray_tracing/Camera.h \
+  /Users/nouraalhajry/Desktop/projects/framework_cs248fall2021-main/inc/ray_tracing/PerspectiveCamera.h \
+  /Users/nouraalhajry/Desktop/projects/framework_cs248fall2021-main/inc/ray_tracing/Sphere.h \
+  /Users/nouraalhajry/Desktop/projects/framework_cs248fall2021-main/inc/ray_tracing/GeometricObject.h \
+  /Users/nouraalhajry/Desktop/projects/framework_cs248fall2021-main/inc/ray_tracing/Plane.h \
+  /Users/nouraalhajry/Desktop/projects/framework_cs248fall2021-main/inc/ray_tracing/Ellipsoid.h

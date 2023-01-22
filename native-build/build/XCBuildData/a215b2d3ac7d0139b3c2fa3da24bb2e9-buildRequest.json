@@ -1,0 +1,59 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "c5e9fd3c492078755539a8bd169dd794b722affa01638c959b4d536f531ffd0b"
+    }
+  ],
+  "containerPath" : "/Users/nouraalhajry/Desktop/projects/framework_cs248fall2021-main/native-build/framework_cs248fall2021.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx11.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/nouraalhajry/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/nouraalhajry/Library/Developer/Xcode/DerivedData/framework_cs248fall2021-cclyuzinljymnpdigmapxyuxqtpe/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/nouraalhajry/Library/Developer/Xcode/DerivedData/framework_cs248fall2021-cclyuzinljymnpdigmapxyuxqtpe/Index/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
